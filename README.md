@@ -1,1 +1,3 @@
-# Go-viz
+# Go-viz:
+- Idea
+- Tech Stack

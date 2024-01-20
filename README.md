@@ -1,1 +1,4 @@
-# Go-viz change here
+# Go-viz:
+- Idea
+- Tech Stack
+- conclusion  

@@ -1,6 +1,8 @@
 # Go-viz:
-- Ideation:
+
+- Ideation: Visualizing go routines and channels
+
 - Tech Stack:
   - Golang
 - Conclusion: 
-9714chagnes
+

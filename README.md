@@ -1,4 +1,4 @@
 # Go-viz:
-- Idea:
+- Ideation:
 - Tech Stack:
 - Conclusion: 
